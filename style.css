@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Section */
+
+.header {
+    background: #34495e;
+}
+
+.text {
+    text-align: center;
+    color: #ebedef;
+    padding: 20px;
+}
+
+
+/* Banner Section */
+
+
+.banner {
+    background: #e67e22;
+    padding: 90px;
+}
+
+img {
+    width: 800px;
+    margin: auto;
+    display: block;
+    box-shadow: 7px 12px 7px 3px rgb(255, 255, 255, .9);
+}
+
+
+/* Title Section */
+
+.title-section {
+    background: #34495e;
+}
+
+.text-1 {
+    padding: 90px 0 70px 0;
+}
+
+.text-1 h2 {
+    color: #fff;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.text-1 h5 {
+    color: #3495d6;
+    text-align: center;
+}
+
+.text-1 p {
+    color: #fff;
+    text-align: center;
+}
+
+
+/* Web Section */
+
+.web-section {
+    background: #9b59b6;
+}
+
+.web-section p {
+    color: #fff;
+    text-align: center;
+    padding: 60px 40px 10px 40px;
+}
+
+.design {
+    color: #198754;
+    text-align: center;
+}
+
+.development {
+    color: #f0c211;
+    text-align: center;
+}
+
+.application {
+    color: #95a2a7;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+
+/* Shadow Section */
+
+.shadow-section {
+    background: #ff9814;
+    padding: 100px;
+    margin-top: -8px;
+    text-align: center;
+}
+
+.shadow-section span {
+    background: #dcdcdc;
+    padding: 20px 190px 25px;
+    font-size: 55px;
+    font-weight: 800;
+    border: 3px dashed #000;
+    border-width: 3px;
+    box-shadow: 30px 30px 0 0 rgb(255, 255, 255, .9);
+    border-radius: 10px;
+}
+
+
+/* Footer Section */
+
+.footer {
+    background: #2c3e50;
+    padding: 10px;
+}
+
+.footer p {
+    color: #ddd;
+    text-align: center;
+}
